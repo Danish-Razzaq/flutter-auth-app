@@ -41,7 +41,7 @@ Developed as a **Final Year University Project** to showcase Flutter fundamental
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/flutter-auth-app.git
+   git clone https://github.com/Danish-Razzaq/flutter-auth-app.git
    cd flutter-auth-app
    ```
 
